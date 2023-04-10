@@ -6,6 +6,8 @@ by Georgios Galvas
 3. Create a virtual environment,
 4. Activate the virtual environment which you created,
 4. Install the necessery libraries by typing
+
 `pip3 install -r requirements.txt`
-5. Open the iPython notebook to view the answers of the assignment
+
+5. Open the iPython notebook 'Solution-Georgios_Galvas.ipynb' to view the answers of the assignment
 6. Thank you :)
